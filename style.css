@@ -1,0 +1,25 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    width: 100%;
+    height: 100%;
+}
+
+p{
+    color: blue;
+}
+
+div{
+    background-color: rgb(219, 255, 127);
+    height: 500px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+   
+   
+}
